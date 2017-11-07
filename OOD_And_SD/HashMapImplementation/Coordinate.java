@@ -1,4 +1,4 @@
-package EqualsAndHashCode;
+package HashMapImplementation;
 
 import java.util.HashMap;
 
